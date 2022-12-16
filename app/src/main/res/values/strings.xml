@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FoodDemo</string>
+    <string name="search">查詢</string>
+    <string name="shopping_car">購物車</string>
+    <string name="null_product">查無此商品</string>
+    <string name="empty_products">查無相關商品</string>
+    <string name="add_car">加入購物車</string>
+    <string name="shopping_car_empty">購物車沒有任何東西</string>
+    <string name="checkout">結帳</string>
+    <string name="count_number">總計: %d</string>
+    <string name="error_image">圖片失聯</string>
+</resources>
