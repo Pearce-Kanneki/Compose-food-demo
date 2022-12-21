@@ -10,3 +10,8 @@
 - Hilt
 #### 其他
 - Coil
+### 架構
+- MVVM 
+- Clean Architecture
+
+兩者混用
